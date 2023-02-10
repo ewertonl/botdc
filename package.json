@@ -1,0 +1,14 @@
+{
+  "name": "botdc",
+  "version": "1.5.0",
+  "description": "bot discord",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "tony",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
+}
